@@ -1,0 +1,1 @@
+In this assignment, we had to implement a binary tree ADT in order to create a 2D tree upon inputing two inputs.  The binary tree ADT reads the two inputs, sets the root and then looks to distinguish the leafs of the tree.
